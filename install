@@ -1,0 +1,1 @@
+sudo apt install curl -y && sudo apt install make -y && sudo apt install gcc -y
