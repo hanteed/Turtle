@@ -11,7 +11,7 @@ int unzip_file(char *str)
         printf("Error: Failed to unzip the docx file");
     }
     FILE *file = fopen("word/document.xml", "r"); // Open the file in read mode
-    char buffer[1024]; // Create a buffer to store the API key
+    char buffer[1024]; // Create a buffer to store the text
     while (fgets(buffer, sizeof(buffer), file)) { // Read the file line by line
         if (my_strpbrk(buffer, "<w:t>")) // If the line contains the string "<w:t>"
         {
