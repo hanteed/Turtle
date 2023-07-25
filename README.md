@@ -16,9 +16,9 @@ Install dependencies
   ./install
 ```
     
-## Deployment
+## Run locally
 
-To deploy this project run
+Compile and run the code
 
 ```bash
   make
