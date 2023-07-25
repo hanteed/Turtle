@@ -66,6 +66,5 @@ Note : this project contains a **Sample** folder filled with multiple DOCX files
 - [@Hante](https://www.github.com/hanteed) 
 - [@Joks](https://www.github.com/joks23)
 - [@DeSpider](https://www.github.com/anasse14)
-- [@Cosnier](https://www.github.com/thomascosnier)
 
 
